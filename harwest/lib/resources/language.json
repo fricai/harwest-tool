@@ -58,6 +58,7 @@
   "C (GCC 9.2.1)": "c",
   "C (Clang 10.0.0)": "c",
   "C++ (GCC 9.2.1)": "cpp",
+  "C++ (GCC 9.2.1 with AC Library v1.1)" : "cpp",
   "C++ (Clang 10.0.0)": "cpp",
   "Java (OpenJDK 11.0.6)": "java",
   "Java8 (OpenJDK 1.8.0)": "java",
